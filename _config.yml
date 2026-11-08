@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Eduard Wikarta"
 title_separator          : "-"
 name                     : &name "Eduard Wikarta"
-description              : &description "Eduard Wikarta: PhD student in plasma physics working on Doppler backscattering and beam tracing"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Eduard Wikarta: Research Engineer at the FEAT Centre, A*STAR, working on synthetic Doppler backscattering diagnostics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://eduardwikarta.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Eduard Wikarta"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in plasma physics: Doppler backscattering and beam tracing"
-  location         : # TODO: city, country
-  employer         : # TODO: university / institute
+  bio              : "Research Engineer working on synthetic Doppler backscattering diagnostics"
+  location         : "Singapore"
+  employer         : "FEAT Centre, A*STAR"
   uri              : # URL
-  email            : # TODO: public contact email
+  email            : "eduardwikarta@hotmail.com"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "eduardwikarta"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -89,7 +89,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'
   preprints:
-    title: 'Preprints'    
+    title: 'Preprints'
+  theses:
+    title: 'Theses'    
   conferences:
     title: 'Conference Papers'
 
